@@ -1,0 +1,12 @@
+number of battles/season
+number of players
+number of trophy regions
+number of trophy gates
+number of regions getting reset
+Base resetting point (In game is 5000)
+Reset max (In game is 6600)
+number of seasons
+(bottom of trophy region)  (losspct for this region) (mmType) (card level cap)
+Repeat format of line 6 for the number of trophy regions you have
+list out all trophy gates.  Must have the correct number
+(bottom of region getting reset) (percentage of trophies above base reset point)
