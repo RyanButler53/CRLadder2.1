@@ -1,7 +1,7 @@
 # CrLadder2.0
 Updated and highly optimized version of my original CR ladder simulation
 
-**Note: This project is actively being developed. Project will be set to private soon and a full release will hopefully be out by october. There are issues and incomplete features**
+**Note: This project is actively being developed.  There are issues and incomplete features, no support for path of legends yet either.**
 
 ### Features and Key Improvements:
 
